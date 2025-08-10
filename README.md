@@ -1,0 +1,69 @@
+[Uploading موقع_شخصي_جديد_مخرج_فيديوغرافر_قالب_أولي_بدون_showreel.html…]()<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Bahaa Hudaib — Cinematographer</title>
+<style>
+  body { background-color: #0A0D10; color: #F5F5F5; font-family: Arial, sans-serif; margin: 0; }
+  a { color: #D4AF37; text-decoration: none; }
+  header, footer { background-color: #0F1318; padding: 20px; text-align: center; }
+  section { padding: 40px 20px; max-width: 1100px; margin: auto; }
+  h1, h2 { margin-bottom: 20px; }
+  iframe { width: 100%; height: 315px; border: none; border-radius: 10px; margin-bottom: 20px; }
+  ul { list-style: none; padding: 0; }
+  li { margin-bottom: 8px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Bahaa Hudaib — Cinematographer</h1>
+</header>
+
+<section id="services">
+  <h2>الخدمات التي أقدمها</h2>
+  <ul>
+    <li>تصوير سينمائي</li>
+    <li>مونتاج</li>
+    <li>تلوين سينمائي</li>
+  </ul>
+</section>
+
+<section id="portfolio">
+  <h2>الأعمال — Documentary</h2>
+  <iframe src="https://player.vimeo.com/video/1108816952" allowfullscreen></iframe>
+
+  <h2>الأعمال — Commercial</h2>
+  <iframe src="https://player.vimeo.com/video/1107184883" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/XQje0-Xjxow" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/0hgqs9oq7eo" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/1108817062" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/1108817176" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/1108817251" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/1108817298" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/1108817495" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/6-Md-DwkQho" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/zl9JWAwciRE" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/aZ90FOvpoRE" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/7E6EqdsojWU" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/OtJo-LP9RHg" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/oCpTj3JXIyM" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/y40KT_qafvw" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/i9PP77kacsM" allowfullscreen></iframe>
+</section>
+
+<section id="contact">
+  <h2>تواصل</h2>
+  <p>للتواصل السريع عبر واتساب أو المنصات التالية:</p>
+  <p>واتساب: <a href="https://wa.me/966599408256" target="_blank">00966599408256</a></p>
+  <p>بريد إلكتروني: <a href="mailto:bhaahudib3@gmail.com">bhaahudib3@gmail.com</a></p>
+  <p>Behance: <a href="https://www.behance.net/bahaahudaib" target="_blank">مشاهدة الأعمال</a></p>
+  <p>Vimeo: <a href="https://vimeo.com/user190437593" target="_blank">مشاهدة الأعمال</a></p>
+</section>
+
+<footer>
+  <p>© 2025 Bahaa Hudaib — جميع الحقوق محفوظة</p>
+</footer>
+</body>
+</html>
+
